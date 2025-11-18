@@ -210,16 +210,13 @@
   <img src="https://github.com/user-attachments/assets/65a19af1-4bd1-4e11-ab31-ae620269937c" width="150">
 </p>
 
-## Схема перехода между статусами созданных задач
-Схема перехода между статусами задач:
+## Схема перехода между статусами созданных задач:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c1ba4893-271f-48f9-9c66-bbafb87d970b" width="300">
 </p>
 
-
-## Прототипирование интерфейса пользователя
-Прототипирование интерфейса пользователя:
+## Прототипирование интерфейса пользователя:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/902fa9b3-9c0d-41e6-87e8-445c8d0e691f" width="500">
